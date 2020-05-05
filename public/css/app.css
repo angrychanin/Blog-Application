@@ -1,0 +1,10 @@
+.container.main {
+  margin-top: 2em;
+}
+
+#delete {
+  display: inline;
+}
+i {
+  margin-right: 10px;
+}
